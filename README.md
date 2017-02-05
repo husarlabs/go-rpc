@@ -31,5 +31,4 @@ if err != nil {
     return
 }
 fmt.Println(res)
-}
 ```
