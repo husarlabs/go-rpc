@@ -1,11 +1,16 @@
 # go-rpc
 A very simple helper library for calling JSON-RPC (v2) methods.
 
+Install:
+```bash
+go get -u github.com/husarlabs/go-rpc
+```
+
 Import:
 ```go
 
 import (
-    rpc "gitlab.com/husarlabs/go-rpc"
+    "github.com/husarlabs/go-rpc"
 )
 ```
 

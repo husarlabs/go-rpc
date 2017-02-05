@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    rpc "gitlab.com/husarlabs/go-rpc"
+    rpc "github.com/husarlabs/go-rpc"
 )
 
 func main() {
